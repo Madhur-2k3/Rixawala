@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.next/
+out/
+coverage/
+
+# env files (commit only the .example ones)
+.env
+.env.local
+.env.*.local
+
+*.log
+.DS_Store
